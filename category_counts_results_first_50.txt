@@ -1,0 +1,19 @@
+Total category counts for the first 50 rows of the 'content' column:
+fusion                    0
+violence                  3
+identification1           0
+identification2           0
+slurs                     1
+demonisation              0
+dehumanisation            1
+existential_threat        0
+conspiracy                1
+inevitable_war1           0
+inevitable_war2           0
+violence_justification    0
+martyr                    0
+violent_role_model1       0
+violent_role_model2       0
+hopelessness1             2
+hopelessness2             1
+dtype: int64

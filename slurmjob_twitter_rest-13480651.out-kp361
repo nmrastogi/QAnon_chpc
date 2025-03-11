@@ -1,0 +1,968 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /uufs/chpc.utah.edu/common/home/u1472278/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2345...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2346...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2347...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2348...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2349...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2350...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2351...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2352...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2353...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2354...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2355...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2356...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2357...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2358...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2359...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2360...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2361...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2362...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2363...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2364...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2365...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2366...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2367...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2368...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2369...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2370...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2371...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2372...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2373...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2374...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2375...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2376...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2377...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2378...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2379...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2380...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2381...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2382...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2383...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2384...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2385...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2386...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2387...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2388...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2389...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2390...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2391...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2392...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2393...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2394...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2395...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2396...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2397...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2398...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2399...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2400...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2401...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2402...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2403...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2404...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2405...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2406...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2407...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2408...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2409...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2410...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2411...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2412...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2413...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2414...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2415...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2416...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2417...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2418...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2419...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2420...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2421...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2422...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2423...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2424...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2425...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2426...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2427...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2428...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2429...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2430...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2431...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2432...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2433...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2434...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2435...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2436...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2437...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2438...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2439...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2440...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2441...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2442...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2443...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2444...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2445...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2446...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2447...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2448...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2449...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2450...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2451...
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py", line 146, in <module>
+    processed_df = process_data_in_chunks(
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py", line 126, in process_data_in_chunks
+    final_category_counts = {category: final_category_counts[category] + combined_category_counts_total.get(category, 0) for category in final_category_counts}
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py", line 126, in <dictcomp>
+    final_category_counts = {category: final_category_counts[category] + combined_category_counts_total.get(category, 0) for category in final_category_counts}
+AttributeError: 'int' object has no attribute 'get'

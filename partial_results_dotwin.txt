@@ -1,0 +1,40 @@
+Total number of tokens from title and content: 4786085
+Total combined category counts for both 'title' and 'content' columns:
+fusion                     5353
+violence                   9259
+identification1               0
+identification2               0
+slurs                      1698
+demonisation               9930
+dehumanisation             3682
+existential_threat         3516
+conspiracy                12758
+inevitable_war1            8799
+inevitable_war2           14590
+violence_justification     2464
+martyr                      546
+violent_role_model1         427
+violent_role_model2        4259
+hopelessness1              9383
+hopelessness2              4692
+dtype: int64
+
+Total number of tokens from content: 20801582
+Total combined category counts for content column:
+fusion                    23647
+violence                  45157
+identification1               0
+identification2               0
+slurs                     12196
+demonisation              47021
+dehumanisation            21499
+existential_threat        15759
+conspiracy                54718
+inevitable_war1           32965
+inevitable_war2           75216
+violence_justification     7900
+martyr                     2196
+violent_role_model1        2701
+violent_role_model2       16687
+hopelessness1             35465
+hopelessness2             23467

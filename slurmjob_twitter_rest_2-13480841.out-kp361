@@ -1,0 +1,50 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /uufs/chpc.utah.edu/common/home/u1472278/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2450...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2451...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2452...
+/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py:109: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  chunk_cleaned['tweet_text'] = chunk_cleaned['tweet_text'].astype(str)  # Convert to string to avoid errors
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2453...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2454...
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py", line 146, in <module>
+    processed_df = process_data_in_chunks(
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py", line 126, in process_data_in_chunks
+    final_category_counts = {category: final_category_counts[category] + combined_category_counts_total.get(category, 0) for category in final_category_counts}
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/twitter.py", line 126, in <dictcomp>
+    final_category_counts = {category: final_category_counts[category] + combined_category_counts_total.get(category, 0) for category in final_category_counts}
+AttributeError: 'int' object has no attribute 'get'

@@ -1,0 +1,19 @@
+Total category counts for the 'content' column across all rows:
+conspiracy                54718.0
+dehumanisation            21499.0
+demonisation              47021.0
+existential_threat        15759.0
+fusion                    23647.0
+hopelessness1             35465.0
+hopelessness2             23467.0
+identification1               0.0
+identification2               0.0
+inevitable_war1           32965.0
+inevitable_war2           75216.0
+martyr                     2196.0
+slurs                     12196.0
+violence                  45157.0
+violence_justification     7900.0
+violent_role_model1        2701.0
+violent_role_model2       16687.0
+dtype: float64

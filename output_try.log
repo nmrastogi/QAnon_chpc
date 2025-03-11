@@ -1,0 +1,9 @@
+nohup: ignoring input
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /uufs/chpc.utah.edu/common/home/u1472278/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Total rows before cleaning: 10000
+Rows after cleaning (going for tokenization): 5172
+Final summary saved to final_summary_tweet_text.txt.

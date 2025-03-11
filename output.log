@@ -1,0 +1,1875 @@
+nohup: ignoring input
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /uufs/chpc.utah.edu/common/home/u1472278/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 1...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 2...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 3...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 4...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 5...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 6...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 7...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 8...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 9...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 10...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 11...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 12...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 13...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 14...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 15...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 16...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 17...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 18...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 19...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 20...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 21...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 22...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 23...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 24...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 25...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 26...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 27...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 28...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 29...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 30...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 31...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 32...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 33...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 34...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 35...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 36...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 37...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 38...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 39...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 40...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 41...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 42...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 43...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 44...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 45...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 46...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 47...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 48...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 49...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 50...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 51...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 52...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 53...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 54...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 55...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 56...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 57...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 58...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 59...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 60...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 61...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 62...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 63...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 64...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 65...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 66...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 67...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 68...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 69...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 70...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 71...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 72...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 73...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 74...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 75...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 76...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 77...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 78...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 79...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 80...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 81...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 82...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 83...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 84...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 85...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 86...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 87...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 88...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 89...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 90...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 91...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 92...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 93...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 94...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 95...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 96...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 97...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 98...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 99...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 100...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 101...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 102...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 103...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 104...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 105...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 106...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 107...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 108...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 109...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 110...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 111...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 112...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 113...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 114...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 115...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 116...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 117...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 118...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 119...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 120...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 121...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 122...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 123...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 124...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 125...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 126...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 127...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 128...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 129...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 130...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 131...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 132...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 133...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 134...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 135...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 136...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 137...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 138...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 139...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 140...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 141...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 142...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 143...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 144...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 145...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 146...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 147...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 148...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 149...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 150...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 151...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 152...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 153...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 154...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 155...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 156...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 157...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 158...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 159...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 160...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 161...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 162...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 163...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 164...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 165...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 166...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 167...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 168...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 169...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 170...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 171...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 172...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 173...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 174...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 175...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 176...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 177...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 178...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 179...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 180...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 181...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 182...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 183...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 184...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 185...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 186...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 187...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 188...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 189...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 190...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 191...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 192...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 193...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 194...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 195...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 196...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 197...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 198...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 199...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 200...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 201...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 202...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 203...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 204...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 205...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 206...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 207...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 208...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 209...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 210...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 211...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 212...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 213...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 214...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 215...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 216...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 217...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 218...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 219...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 220...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 221...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 222...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 223...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 224...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 225...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 226...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 227...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 228...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 229...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 230...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 231...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 232...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 233...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 234...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 235...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 236...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 237...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 238...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 239...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 240...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 241...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 242...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 243...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 244...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 245...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 246...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 247...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 248...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 249...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 250...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 251...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 252...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 253...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 254...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 255...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 256...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 257...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 258...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 259...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 260...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 261...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 262...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 263...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 264...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 265...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 266...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 267...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 268...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 269...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 270...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 271...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 272...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 273...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 274...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 275...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 276...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 277...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 278...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 279...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 280...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 281...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 282...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 283...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 284...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 285...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 286...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 287...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 288...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 289...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 290...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 291...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 292...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 293...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 294...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 295...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 296...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 297...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 298...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 299...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 300...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 301...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 302...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 303...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 304...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 305...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 306...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 307...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 308...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 309...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 310...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 311...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 312...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 313...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 314...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 315...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 316...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 317...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 318...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 319...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 320...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 321...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 322...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 323...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 324...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 325...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 326...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 327...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 328...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 329...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 330...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 331...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 332...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 333...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 334...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 335...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 336...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 337...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 338...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 339...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 340...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 341...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 342...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 343...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 344...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 345...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 346...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 347...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 348...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 349...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 350...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 351...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 352...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 353...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 354...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 355...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 356...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 357...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 358...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 359...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 360...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 361...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 362...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 363...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 364...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 365...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 366...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 367...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 368...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 369...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 370...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 371...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 372...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 373...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 374...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 375...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 376...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 377...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 378...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 379...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 380...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 381...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 382...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 383...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 384...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 385...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 386...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 387...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 388...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 389...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 390...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 391...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 392...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 393...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 394...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 395...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 396...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 397...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 398...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 399...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 400...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 401...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 402...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 403...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 404...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 405...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 406...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 407...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 408...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 409...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 410...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 411...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 412...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 413...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 414...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 415...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 416...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 417...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 418...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 419...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 420...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 421...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 422...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 423...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 424...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 425...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 426...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 427...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 428...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 429...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 430...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 431...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 432...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 433...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 434...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 435...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 436...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 437...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 438...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 439...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 440...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 441...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 442...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 443...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 444...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 445...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 446...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 447...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 448...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 449...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 450...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 451...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 452...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 453...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 454...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 455...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 456...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 457...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 458...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 459...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 460...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 461...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 462...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 463...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 464...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 465...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 466...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 467...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 468...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 469...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 470...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 471...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 472...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 473...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 474...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 475...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 476...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 477...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 478...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 479...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 480...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 481...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 482...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 483...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 484...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 485...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 486...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 487...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 488...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 489...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 490...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 491...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 492...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 493...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 494...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 495...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 496...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 497...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 498...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 499...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 500...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 501...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 502...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 503...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 504...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 505...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 506...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 507...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 508...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 509...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 510...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 511...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 512...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 513...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 514...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 515...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 516...
+/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/site-packages/numpy/core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Processing chunk 517...
+Process ForkPoolWorker-16516:
+Process ForkPoolWorker-16543:
+Process ForkPoolWorker-16527:
+Process ForkPoolWorker-16541:
+Process ForkPoolWorker-16534:
+Process ForkPoolWorker-16544:
+Process ForkPoolWorker-16539:
+Process ForkPoolWorker-16525:
+Process ForkPoolWorker-16517:
+Process ForkPoolWorker-16526:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+BrokenPipeError: [Errno 32] Broken pipe
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 405, in _send_bytes
+    self._send(buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+BrokenPipeError: [Errno 32] Broken pipe
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+
+During handling of the above exception, another exception occurred:
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+BrokenPipeError: [Errno 32] Broken pipe
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 131, in worker
+    put((job, i, result))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 404, in _send_bytes
+    self._send(header)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/pool.py", line 136, in worker
+    put((job, i, (False, wrapped)))
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/queues.py", line 377, in put
+    self._writer.send_bytes(obj)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 200, in send_bytes
+    self._send_bytes(m[offset:offset + size])
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 411, in _send_bytes
+    self._send(header + buf)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/miniconda3/envs/new_env/lib/python3.9/multiprocessing/connection.py", line 368, in _send
+    n = write(self._handle, buf)
+BrokenPipeError: [Errno 32] Broken pipe
