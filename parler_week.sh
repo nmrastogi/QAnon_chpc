@@ -8,7 +8,7 @@
 #SBATCH --mem=128GB
 #SBATCH --mail-user=naman.rastogi@utah.edu
 #SBATCH --mail-type=FAIL,END
-#SBATCH -o slurmjob_parler_pre_2-%j.out-%N
+#SBATCH -o parler_week-%j.out-%N
 #SBATCH --export=ALL
 
 source ~/miniconda3/etc/profile.d/conda.sh

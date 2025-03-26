@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load data
-df = pd.read_csv("../largedata/new_range/parler_huge.csv").head(1000000)
+df = pd.read_csv("/scratch/general/vast/u1472278/parler_huge.csv")
 
 # Filter by date range
 start_date = "2020-09-28"
