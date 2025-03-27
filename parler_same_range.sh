@@ -8,7 +8,7 @@
 #SBATCH --mem=128GB
 #SBATCH --mail-user=naman.rastogi@utah.edu
 #SBATCH --mail-type=FAIL,END
-#SBATCH -o parler_pre_same_range-%j.out-%N
+#SBATCH -o parler_same_range-%j.out-%N
 #SBATCH --export=ALL
 
 source ~/miniconda3/etc/profile.d/conda.sh
@@ -16,4 +16,4 @@ conda activate new_env
 
 OUT_DIR=/uufs/chpc.utah.edu/common/home/u1472278/QAnon/results/
 mkdir -p ${OUT_DIR}
-python parler_pre.py --output_dir ${OUT_DIRd}
+python parler_same_range.py --output_dir ${OUT_DIRd}

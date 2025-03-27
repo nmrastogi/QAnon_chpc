@@ -11,6 +11,10 @@ nltk.download('stopwords')
 # Load NLTK English stopwords
 nltk_stopwords = set(stopwords.words('english'))
 
+# Define start and end dates for filtering
+start_date = "2020-09-28"
+end_date = "2020-12-05"
+
 def clean_text(text):
     if not isinstance(text, str):
         text = ''
@@ -33,34 +37,37 @@ def process_entire_dataset(file_path, chunk_size=50000):
     rows_after_cleaning = 0
     chunk_count = 0
 
-    # Iterate over all chunks in the dataset
-    for chunk in pd.read_csv(file_path, usecols=['body'], chunksize=chunk_size):
+    for chunk in pd.read_csv(file_path, usecols=['body', 'createdAtformatted'], chunksize=chunk_size):
         chunk_count += 1
         total_rows += len(chunk)
-        print(f"Processing chunk {chunk_count}...")
+        print(f"\nProcessing chunk {chunk_count}...")
+        print(f"Rows before filtering: {len(chunk)}")
 
-        # Print rows before cleaning
-        print(f"Rows before cleaning in chunk {chunk_count}: {len(chunk)}")
+        # Filter by date range (lexicographic works if format is YYYY-MM-DD)
+        chunk = chunk[(chunk['createdAtformatted'] >= start_date) & (chunk['createdAtformatted'] <= end_date)]
+        print(f"Rows after date filter: {len(chunk)}")
 
-        # Clean the chunk by removing NaN or empty 'body' values
+        # Drop NaN or empty body
         chunk_cleaned = chunk.dropna(subset=['body'], how='all')
-        chunk_cleaned['body'] = chunk_cleaned['body'].astype(str)  # Convert to string to avoid errors
-        chunk_cleaned = chunk_cleaned[(chunk_cleaned['body'].str.strip() != '')]
+        chunk_cleaned['body'] = chunk_cleaned['body'].astype(str)
+        chunk_cleaned = chunk_cleaned[chunk_cleaned['body'].str.strip() != '']
 
-        rows_after_cleaning += len(chunk_cleaned)
-        print(f"Rows after cleaning in chunk {chunk_count}: {len(chunk_cleaned)}")
-
-        # Remove rows with links in 'body'
+        # Remove rows with links
         chunk_cleaned = chunk_cleaned[~chunk_cleaned['body'].str.contains(r'http[s]?://\S+', na=False)]
 
-        # Process the cleaned chunk using multiple processors
+        rows_after_cleaning += len(chunk_cleaned)
+        print(f"Rows after cleaning: {len(chunk_cleaned)}")
+
+        # Process the cleaned chunk
         chunk_processed = multiprocess_dataframe(chunk_cleaned, num_partitions=4)
 
-    # Print total row counts before and after cleaning
-    print(f"Total rows before cleaning: {total_rows}")
-    print(f"Total rows after cleaning: {rows_after_cleaning}")
+        # (Optional) Save or accumulate chunks here
 
-# Execute the function on the entire dataset
+    # Summary
+    print(f"\nTotal rows before cleaning: {total_rows}")
+    print(f"Total rows after cleaning and filtering: {rows_after_cleaning}")
+
+# Run the function
 process_entire_dataset(
     "/scratch/general/vast/u1472278/parler_posts_comments.csv",
     chunk_size=50000
