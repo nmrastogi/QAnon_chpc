@@ -17,4 +17,4 @@ unique_weeks_per_creator = grouped_df.groupby('creator')['year_week'].nunique().
 # Save outputs
 unique_weeks_per_creator.to_csv("parler_persistence.csv", index=False)
 
-print("creator_unique_week_counts.csv")
+print("creator_unique_week_counts")
