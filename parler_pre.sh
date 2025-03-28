@@ -2,7 +2,7 @@
 #SBATCH --account soc-gpu-kp
 #SBATCH --partition soc-gpu-kp
 #SBATCH --ntasks-per-node=16
-#SBATCH --nodes=4
+#SBATCH --nodes=2
 #SBATCH --gres=gpu
 #SBATCH --time=12:00:00
 #SBATCH --mem=128GB

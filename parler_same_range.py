@@ -127,5 +127,5 @@ def process_data_in_chunks(file_path, chunk_size=50000, partial_file='same_range
 
 # Run the function
 process_data_in_chunks(
-    "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/datasets/parler_posts_comments.csv"
+    "/scratch/general/vast/u1472278/parler_posts_comments.csv"
 )

@@ -1,0 +1,19 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     /uufs/chpc.utah.edu/common/home/u1472278/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/QAnon_chpc/parler_pre.py", line 71, in <module>
+    process_entire_dataset(
+  File "/uufs/chpc.utah.edu/common/home/u1472278/QAnon/QAnon_chpc/parler_pre.py", line 40, in process_entire_dataset
+    for chunk in pd.read_csv(file_path, usecols=['body', 'createdAtformatted'], chunksize=chunk_size):
+  File "/uufs/chpc.utah.edu/common/home/u1472278/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/uufs/chpc.utah.edu/common/home/u1472278/.local/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+  File "/uufs/chpc.utah.edu/common/home/u1472278/.local/lib/python3.9/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/scratch/general/vast/u1472278/parler_posts_comments.csv'
