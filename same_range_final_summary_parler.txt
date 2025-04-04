@@ -1,0 +1,4 @@
+Final Results:
+Total tokens: 513948928
+Final category counts:
+{'fusion': 638913, 'violence': 803932, 'identification1': 0, 'identification2': 0, 'slurs': 202220, 'demonisation': 1391967, 'dehumanisation': 543316, 'existential_threat': 283110, 'conspiracy': 1819059, 'inevitable_war1': 728914, 'inevitable_war2': 969129, 'violence_justification': 204887, 'martyr': 36861, 'violent_role_model1': 39374, 'violent_role_model2': 381359, 'hopelessness1': 740745, 'hopelessness2': 342841}
