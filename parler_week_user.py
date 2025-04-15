@@ -19,3 +19,5 @@ unique_authors_df_parler = unique_authors_per_week.reset_index(name='creator')
 # Save the output
 unique_authors_df_parler.to_csv("unique_authors_per_week_parler_full_range.csv", index=False)
 print("Saved filtered data and weekly unique authors.")
+
+##end
